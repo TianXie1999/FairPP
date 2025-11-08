@@ -12,3 +12,5 @@ Run the notebooks below to reproduce each experiment:
 - `regression_exp.ipynb`: reproduces the regression version of the Gaussian experiments.
 - `regression_e5.ipynb`: focuses on Example 5 from the paper, illustrating the variance-regularized objective.
 - `regression_exp_multi.ipynb`: covers the multi-group regression simulations and associated fairness metrics.
+
+The paper is mainly theoretical. If you take interest, check the paper [here](https://arxiv.org/pdf/2406.16756)
